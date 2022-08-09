@@ -1,6 +1,4 @@
 # 📚 2022-2-Algorithm-Study (JS/Swift/Python)
-
-# 📚 YAPP 알고리즘 스터디 3팀 (JS/Swift)
 ### 🍀 스터디원
 <div align="center">
   <table style="font-weight : bold">
@@ -56,8 +54,8 @@
 ---
 ### 🚀 규칙
 #### 1. PR 작성 방법
-- 제목은 `[Week{num}] 이름 : 문제 이름` 형식으로 작성합니다.
-- ex) `[Week1] 김건형: 회문, 단어 뒤집기2, 문자열 게임2`
+- 제목은 `[week{num}] 이름 : 문제 이름` 형식으로 작성합니다.
+- ex) `[week1] 김건형: 회문, 단어 뒤집기2, 문자열 게임2`
 
 #### 2. 문제 업로드 방법
 - 주차별 폴더 이름은 week{num}-{주제}로 작성합니다.
