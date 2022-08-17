@@ -2,8 +2,6 @@
 *  양궁대회.swift
 *  Question Link: https://school.programmers.co.kr/learn/courses/30/lessons/92342
 *  Primary idea:   완전탐색
-*                   1. len : 스테이지에 도달한 플레이어 수
-*                   2. filter를 통해 '스테이지에 도달했으나 아직 클리어하지 못한 플레이어의 수' 구하기
 *
 *  문제 이해/풀이 : 09:13, 01:20:34
 *  Time Complexity : O()
